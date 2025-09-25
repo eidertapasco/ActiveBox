@@ -320,6 +320,9 @@ button {
   color: var(--white);
   text-align: center;
 }
+.portfolio__item--featured:hover{
+  background: var(--dark-bg);
+}
 
 .portfolio__image {
   width: 100%;
